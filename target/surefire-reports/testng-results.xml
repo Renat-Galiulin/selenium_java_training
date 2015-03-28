@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Tests" duration-ms="19376" started-at="2015-03-28T16:11:03Z" finished-at="2015-03-28T16:11:22Z">
+  <suite name="Tests" duration-ms="18543" started-at="2015-03-28T21:51:57Z" finished-at="2015-03-28T21:52:15Z">
     <groups>
     </groups>
-    <test name="Test1" duration-ms="19376" started-at="2015-03-28T16:11:03Z" finished-at="2015-03-28T16:11:22Z">
+    <test name="Test1" duration-ms="18543" started-at="2015-03-28T21:51:57Z" finished-at="2015-03-28T21:52:15Z">
       <class name="ru.st.selenium.LoginTest">
-        <test-method status="PASS" signature="init()" name="init" is-config="true" duration-ms="14341" started-at="2015-03-28T16:11:03Z" finished-at="2015-03-28T16:11:17Z">
+        <test-method status="PASS" signature="init()" name="init" is-config="true" duration-ms="13565" started-at="2015-03-28T21:51:57Z" finished-at="2015-03-28T21:52:10Z">
         </test-method>
-        <test-method status="PASS" signature="testUntitled()" name="testUntitled" duration-ms="4999" started-at="2015-03-28T16:11:17Z" finished-at="2015-03-28T16:11:22Z">
+        <test-method status="PASS" signature="testUntitled()" name="testUntitled" duration-ms="4945" started-at="2015-03-28T21:52:10Z" finished-at="2015-03-28T21:52:15Z">
         </test-method>
-        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="477" started-at="2015-03-28T16:11:22Z" finished-at="2015-03-28T16:11:23Z">
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="599" started-at="2015-03-28T21:52:15Z" finished-at="2015-03-28T21:52:16Z">
         </test-method>
       </class>
     </test>
